@@ -1,3 +1,11 @@
+# Apple Pay Fork
+
+This fork will attempt to add apply pay compatibility by updating the Stripe implementation within this plugin to the new API "Elements" from Stripe.
+
+Somewhat of a personal project, as this will be used personally, but might be helpful to some people with the same problem.
+
+>>> Original Readme below this point.
+
 Refer to the documentation on the [Shopping Cart Plugin site](https://gravcart.com/docs)
 
 # Stripe add-on for the Grav Shopping Cart
